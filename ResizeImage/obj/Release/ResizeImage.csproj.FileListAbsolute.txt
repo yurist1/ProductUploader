@@ -1,0 +1,9 @@
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\bin\Release\ResizeImage.exe.config
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\bin\Release\ResizeImage.exe
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\bin\Release\ResizeImage.pdb
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Release\ResizeImage.Form1.resources
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Release\ResizeImage.Properties.Resources.resources
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Release\ResizeImage.csproj.GenerateResource.cache
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Release\ResizeImage.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Release\ResizeImage.exe
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Release\ResizeImage.pdb

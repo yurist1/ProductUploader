@@ -1,0 +1,10 @@
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\bin\Debug\ResizeImage.exe.config
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\bin\Debug\ResizeImage.exe
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\bin\Debug\ResizeImage.pdb
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Debug\ResizeImage.Form1.resources
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Debug\ResizeImage.Properties.Resources.resources
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Debug\ResizeImage.csproj.GenerateResource.cache
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Debug\ResizeImage.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Debug\ResizeImage.exe
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Debug\ResizeImage.pdb
+C:\Users\Yuri\Documents\카카오톡 받은 파일\UPLOAD~2\ResizeImage\obj\Debug\ResizeImage.csprojAssemblyReference.cache
